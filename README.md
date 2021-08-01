@@ -1,0 +1,2 @@
+# PythonTemel
+Bitirme Projesi
